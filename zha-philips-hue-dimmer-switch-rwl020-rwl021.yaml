@@ -1,3 +1,4 @@
+---
 blueprint:
   name: ZHA - Philips Hue Dimmer Switch
   description: 'Control lights with a Philips Hue Dimmer Switch.
